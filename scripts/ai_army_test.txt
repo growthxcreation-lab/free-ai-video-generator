@@ -1,21 +1,13 @@
-TITLE: AI AArmy ↔ The Team That Never Sleeps
- FORMAT: vertical 1080 x 1920, 30 seconds
- 
-SCENE 1
-IMAGE: pitch-black frame, one blinding white flash, then text burns in : 'Your competitors hired AI before you did.'
+---
+IMAGE: pitch-black frame, one blinding white flash, then text burns in: "Your competitors hired AI before you did."
 VOICE: Not next year. Last quarter.
-Hard cut.
-
-SCENE 
-IMAGE: top-downsplit screen. Top half: a tired man at a desk, coffee going cold,  three monitors. Bottom half: the same tasks flowing through a glowing pipeline of small robots.
+---
+IMAGE: top half, a tired man at a desk, coffee going cold, three monitors glowing; bottom half, the same tasks flowing through a glowing pipeline of small robots, top-down split screen.
 VOICE: Research. Content. Outreach. Follow-ups. Done by midnight. Every night.
-
-SCENE 3
-IMAGE: close-up of a dashboard filling with inbound leads, numbers ticking up, soft glow.
+---
+IMAGE: close-up of a dashboard filling with inbound leads, numbers ticking upward in real time.
 VOICE: AI Army is a workforce you hire once and never manage.
-
-SCENE 4
+---
 IMAGE: logo reveal, AI Army wordmark with a subtle pulse on dark background.
-VOICE: Start free. Linj in bio.
-
-All image prompts are included alove each scene's voice line. The pipeline renders these as animated HTG frames at 60sp.
+VOICE: Start free. Link in bio.
+---
